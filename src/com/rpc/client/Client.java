@@ -5,7 +5,7 @@ import java.io.IOException;
 import com.rpc.protocal.Invocation;
 
 /*
- * ¶ЁТеїН»§¶ЛЅУїЪ
+ * е®љд№‰е®ўж€·з«ЇжЋҐеЏЈ
  */
 public interface Client {
 	public void initClient (String ip , int port) throws IOException;
